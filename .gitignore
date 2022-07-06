@@ -1,0 +1,6 @@
+# Rules to rule out .in, -out and .pyc
+
+.in
+.out
+.pyc
+
